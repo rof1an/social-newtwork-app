@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67dd0b0-0662-43d2-a477-49e8dfd3d5fc" name="Changes" comment="Merge branch 'main' of https://github.com/rof1an/my-react-app" />
+    <list default="true" id="e67dd0b0-0662-43d2-a477-49e8dfd3d5fc" name="Changes" comment="Merge branch 'main' of https://github.com/rof1an/my-react-app">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +121,7 @@
       <workItem from="1667376541865" duration="8484000" />
       <workItem from="1667400440104" duration="5163000" />
       <workItem from="1667427567795" duration="775000" />
-      <workItem from="1667500352812" duration="3739000" />
+      <workItem from="1667500352812" duration="4018000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/rof1an/my-react-app">
       <created>1667428102546</created>

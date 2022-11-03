@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e67dd0b0-0662-43d2-a477-49e8dfd3d5fc" name="Changes" comment="Merge branch 'main' of https://github.com/rof1an/my-react-app" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GdIHh28oNjZzw3SZdUPEdME6Fm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "js.last.introduce.type": "CONST",
+    "last_opened_file_path": "D:/Windows10Upgrade/react-projects/it-kamasutra/my-react-app/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src" />
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Navbar\NavbarItem" />
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Dialogs\Message" />
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Profile" />
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Profile\ProfileInfo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src" />
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Profile" />
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Navbar" />
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Header" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.deploy">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e67dd0b0-0662-43d2-a477-49e8dfd3d5fc" name="Changes" comment="" />
+      <created>1666711957883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666711957883</updated>
+      <workItem from="1666711961399" duration="1670000" />
+      <workItem from="1666797985279" duration="1029000" />
+      <workItem from="1666809010288" duration="3327000" />
+      <workItem from="1666878928669" duration="10141000" />
+      <workItem from="1666965244701" duration="5069000" />
+      <workItem from="1666990691140" duration="2475000" />
+      <workItem from="1667030075536" duration="1764000" />
+      <workItem from="1667031971867" duration="2035000" />
+      <workItem from="1667037458437" duration="299000" />
+      <workItem from="1667037824866" duration="3288000" />
+      <workItem from="1667068357882" duration="8621000" />
+      <workItem from="1667120783353" duration="16691000" />
+      <workItem from="1667216461366" duration="18775000" />
+      <workItem from="1667340295176" duration="1969000" />
+      <workItem from="1667376541865" duration="8484000" />
+      <workItem from="1667400440104" duration="5163000" />
+      <workItem from="1667427567795" duration="775000" />
+      <workItem from="1667500352812" duration="3739000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/rof1an/my-react-app">
+      <created>1667428102546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667428102546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m 'add dispatch and action creators, improve design and add first functions'" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/rof1an/my-react-app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/rof1an/my-react-app" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+.header {
+    grid-area: h;
+    background-color: var(--mainBg);
+    box-shadow: 2px 3px 10px 3px #000;
+    border-radius: 10px;
+}
+.headerPanel{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 55px;
+    color: white;
+    font-weight: 800;
+}
+.headerPanel p{
+    font-size: 22px;
+    padding: 5px 0 0 10px;
+    text-shadow: 1px 1px 2px white, 0 0 0.7em #12c7f5, 0 0 0.1em #12c7f5;
+}
+.headerPanel p span{
+    color: #12c7f5;
+}
+.header img {
+    width: 50px;
+    margin: 5px 0 0 30px;
+    cursor: pointer;
+}
+
+.transformImg img{
+    animation: deg .4s linear;
+}
+
+@keyframes deg {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

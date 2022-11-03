@@ -1,0 +1,71 @@
+.navigation {
+    margin-top: 15px;
+    margin-right: 15px;
+    /*max-height: 700px;*/
+    height: fit-content;
+    min-width: 230px;
+    background-color: var(--mainBg);
+    box-shadow: 1px 3px 21px 2px #000;
+    border-radius: 10px;
+}
+
+.nav {
+    grid-area: n;
+    font-size: 19px;
+    padding: 0;
+    margin: 10px 0 283px 0;
+    list-style: none;
+}
+
+.item {
+    padding: 5px 0;
+    color: #ccc;
+    transition: all 0.3s;
+
+}
+
+.item a {
+    margin: 0 0 0 20px;
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+    width: 100%;
+}
+
+.item a.active {
+    color: #12c7f5;
+}
+
+.item:hover {
+    width: 100%;
+    display: inline-block;
+    background-color: #3c3c3c;
+}
+
+.navbarElements {
+    margin-top: 160px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.friends{
+    padding: 0;
+    max-width: 230px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.friend{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.friendImg{
+    width: 50px;
+    border-radius: 50%;
+}
+

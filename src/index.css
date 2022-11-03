@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    /*background: linear-gradient(90deg, #334b66 0%, #6d878f 100%);*/
+    background: url('https://sun2.dataix-kz-akkol.userapi.com/impg/d6UnrwUM51gg7ewMPbNwtj_PeeV0aPKMPqduDw/YfK3MB2DabI.jpg?size=2560x1600&quality=96&sign=4d8c470927bfe189ea764d4b53e22a73&type=album') no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    font-family: Roboto, sans-serif;
+}
+#root{
+    padding: 0 10px;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+:root{
+    --mainBg: rgba(47, 47, 50, 0.9);
+}

@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67dd0b0-0662-43d2-a477-49e8dfd3d5fc" name="Changes" comment="Merge branch 'main' of https://github.com/rof1an/my-react-app">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
-    </list>
+    <list default="true" id="e67dd0b0-0662-43d2-a477-49e8dfd3d5fc" name="Changes" comment="Merge branch 'main' of https://github.com/rof1an/my-react-app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +125,7 @@
       <workItem from="1667559938678" duration="4355000" />
       <workItem from="1667590499514" duration="1958000" />
       <workItem from="1667597362298" duration="6007000" />
+      <workItem from="1667636082776" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/rof1an/my-react-app">
       <created>1667428102546</created>

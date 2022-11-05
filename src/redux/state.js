@@ -34,6 +34,7 @@ let store = {
                 {id: 2, name: 'Pavel'},
                 {id: 3, name: 'Aleksey'},
             ],
+            newMessageBody: ''
         },
         sidebar: {
             friends: [
@@ -94,6 +95,14 @@ let store = {
         } else if (action.type === UPDATE_NEW_POST_TEXT) {
             this._state.profilePage.newPostText = action.newText
             this._callSubscriber(this._state)
+        } else if (action.type === SEND_MESSAGE){
+            let body = this._state.dialogsPage.newMessageBody
+            this._state.dialogsPage.messages.push({ id: 6, message: body })
+            this._state.dialogsPage.newMessageBody = ''
+            this._callSubscriber(this._state)
+        } else if(action.type === UPDATE_NEW_MESSAGE){
+            this._state.dialogsPage.newMessageBody = action.body
+            this._callSubscriber(this._state)
         }
     }
 }
@@ -105,13 +114,27 @@ export const addPostActionCreator = () => {
         type: ADD_POST
     }
 }
-
 const UPDATE_NEW_POST_TEXT = 'UPDATE-NEW-POST-TEXT'
 export const updateNewPostTextActionCreator = (text) => {
-    return{
+    return {
         type: UPDATE_NEW_POST_TEXT, newText: text
     }
 }
+
+const SEND_MESSAGE = 'SEND-MESSAGE'
+export const sendMessageCreator = () => {
+    return {
+        type: SEND_MESSAGE
+    }
+}
+
+const UPDATE_NEW_MESSAGE = 'ADD-NEW-MESSAGE'
+export const updateNewMessageCreator = (text) => {
+    return {
+        type: UPDATE_NEW_MESSAGE, body: text
+    }
+}
+
 
 window.store = store
 export default store;

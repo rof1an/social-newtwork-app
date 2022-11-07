@@ -2,7 +2,7 @@
 import cls from './Dialogs.module.css'
 import DialogItem from "./DialogIiem/DialogItem";
 import Message from "./Message/Message";
- import { sendMessageCreator, updateNewMessageCreator} from "../../redux/state";
+ import { sendMessageCreator, updateNewMessageCreator} from "../../redux/reducers/dialogs-reducer";
 
 
 const Dialogs = (props) => {

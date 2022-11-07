@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67dd0b0-0662-43d2-a477-49e8dfd3d5fc" name="Changes" comment="Merge branch 'main' of https://github.com/rof1an/my-react-app" />
+    <list default="true" id="e67dd0b0-0662-43d2-a477-49e8dfd3d5fc" name="Changes" comment="Merge branch 'main' of https://github.com/rof1an/my-react-app">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,10 +42,12 @@
     &quot;ToolWindowLeetcode.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;js.last.introduce.type&quot;: &quot;CONST&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Windows10Upgrade/react-projects/it-kamasutra/my-react-app/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Windows10Upgrade/react-projects/it-kamasutra/social-network-app/src/redux&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
@@ -54,13 +64,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\social-network-app\src\redux" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Navbar\NavbarItem" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Dialogs\Message" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Profile" />
-      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Profile\ProfileInfo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\social-network-app\src\redux\reducers" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Profile" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Navbar" />
@@ -125,7 +136,11 @@
       <workItem from="1667559938678" duration="4355000" />
       <workItem from="1667590499514" duration="1958000" />
       <workItem from="1667597362298" duration="6007000" />
-      <workItem from="1667636082776" duration="616000" />
+      <workItem from="1667636082776" duration="2681000" />
+      <workItem from="1667661969632" duration="4241000" />
+      <workItem from="1667681131273" duration="5571000" />
+      <workItem from="1667732998653" duration="1127000" />
+      <workItem from="1667826732780" duration="1201000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/rof1an/my-react-app">
       <created>1667428102546</created>

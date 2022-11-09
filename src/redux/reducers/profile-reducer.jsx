@@ -17,8 +17,8 @@ let initialState = {
     newPostText: ''
 }
 const profileReducer = (state = initialState, action) => {
-    switch (action.type) {
-        case ADD_POST:
+    switch (action.type){
+        case ADD_NEW_POST:
             let newPost = {
                 id: 5,
                 message: state.newPostText,
@@ -35,16 +35,16 @@ const profileReducer = (state = initialState, action) => {
     }
 }
 
-const ADD_POST = 'ADD-POST'
-export const addPostActionCreator = () => {
-    return {
-        type: ADD_POST
+const UPDATE_NEW_POST_TEXT = 'UPDATE-NEW-POST-TEXT'
+export const updateNewPostTextCreator = (text) => {
+    return{
+        type: UPDATE_NEW_POST_TEXT, newText: text
     }
 }
-const UPDATE_NEW_POST_TEXT = 'UPDATE-NEW-POST-TEXT'
-export const updateNewPostTextActionCreator = (text) => {
-    return {
-        type: UPDATE_NEW_POST_TEXT, newText: text
+const ADD_NEW_POST = 'ADD-NEW-POST'
+export const addPostCreator = () => {
+    return{
+        type: ADD_NEW_POST
     }
 }
 

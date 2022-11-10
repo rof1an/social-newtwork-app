@@ -9,7 +9,7 @@ const Profile = (props) => {
         <div className={cls.profile}>
             <ProfileInfo name='Alex Evanson' birthtime='4 december' city='Aktau'
                          education="7'High school" website='https://github.com/rof1an'/>
-            <MyPostsContainer store={props.store} />
+            <MyPostsContainer/>
         </div>
     );
 };

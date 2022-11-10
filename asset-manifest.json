@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/social-newtwork-app/static/css/main.1e526595.css",
-    "main.js": "/social-newtwork-app/static/js/main.dfff2ba5.js",
+    "main.js": "/social-newtwork-app/static/js/main.e715c252.js",
     "index.html": "/social-newtwork-app/index.html",
     "main.1e526595.css.map": "/social-newtwork-app/static/css/main.1e526595.css.map",
-    "main.dfff2ba5.js.map": "/social-newtwork-app/static/js/main.dfff2ba5.js.map"
+    "main.e715c252.js.map": "/social-newtwork-app/static/js/main.e715c252.js.map"
   },
   "entrypoints": [
     "static/css/main.1e526595.css",
-    "static/js/main.dfff2ba5.js"
+    "static/js/main.e715c252.js"
   ]
 }

@@ -13,7 +13,7 @@ function App(props) {
         <BrowserRouter>
             <div className='App'>
                 <Header/>
-                <Navbar />
+                <Navbar store={props.store}/>
                 <div>
                     <Routes>
                         <Route path="/profile/*" element={<Profile/>}/>

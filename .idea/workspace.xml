@@ -6,16 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="e67dd0b0-0662-43d2-a477-49e8dfd3d5fc" name="Changes" comment="add context api">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StoreContext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/reducers/dialogs-reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/dialogs-reducer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/reducers/profile-reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/profile-reducer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/dialogs-reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/dialogs-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/profile-reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/profile-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/sidebar-reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/sidebar-reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/redux-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/redux-store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,25 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowLeetcode.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;js.last.introduce.type&quot;: &quot;CONST&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Windows10Upgrade/react-projects/it-kamasutra/social-network-app/src/components/Dialogs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowLeetcode.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "js.last.introduce.type": "CONST",
+    "last_opened_file_path": "D:/Windows10Upgrade/react-projects/it-kamasutra/social-network-app/src/components/Users",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -69,11 +67,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\social-network-app\src\components\Users" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\social-network-app\src\components\Dialogs" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\social-network-app\src\components\Profile\MyPosts" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\social-network-app\src\redux" />
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src" />
-      <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\my-react-app\src\components\Navbar\NavbarItem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Windows10Upgrade\react-projects\it-kamasutra\social-network-app\src\redux\reducers" />
@@ -151,6 +149,8 @@
       <workItem from="1667989525626" duration="4890000" />
       <workItem from="1668073639035" duration="10619000" />
       <workItem from="1668102137300" duration="4065000" />
+      <workItem from="1668170516348" duration="9563000" />
+      <workItem from="1668270812781" duration="16622000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/rof1an/my-react-app">
       <created>1667428102546</created>

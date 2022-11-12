@@ -1,0 +1,59 @@
+.userPhoto{
+    width: 150px;
+    height: 150px;
+}
+.users{
+    margin: 15px 0 0 10px;
+    gap: 15px;
+    row-gap: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.userBlock{
+    filter: drop-shadow(1px 3px 5px black);
+}
+.user{
+    float: left;
+    border: 3px solid #3c3c3c;
+    background: #3c3c3c;
+    padding: 5px;
+    margin-right: 15px;
+
+    white-space: nowrap;
+    text-overflow: unset;
+    overflow: hidden;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+}
+.right hr{
+    margin-top: 0;
+}
+.info{
+    margin-top: 7px;
+    font-size: 18px;
+    color: white;
+}
+
+.location{
+    text-align: right;
+    font-weight: 700;
+}
+.city{
+    font-size: 14px;
+}
+.btn{
+    padding: 7px 16px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+.btnUnfollow{
+    background: #5c0804;
+}
+.btnFollow{
+    background: #006b00;
+}

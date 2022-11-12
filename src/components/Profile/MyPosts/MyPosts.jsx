@@ -11,11 +11,9 @@ const MyPosts = (props) => {
     let onPostChange = (e) => {
         let text = e.target.value
         props.updateNewPostText(text)
-        // props.dispatch(updateNewPostTextCreator(text))
     }
     let onAddPost = () => {
         props.addPost()
-        // props.dispatch(addPostCreator())
     }
 
     return (

@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/social-newtwork-app/static/css/main.1e526595.css",
-    "main.js": "/social-newtwork-app/static/js/main.96e32ec3.js",
+    "main.css": "/social-newtwork-app/static/css/main.a77b6061.css",
+    "main.js": "/social-newtwork-app/static/js/main.268de671.js",
+    "static/media/user.png": "/social-newtwork-app/static/media/user.e4966e0f0a28c984247e.png",
     "index.html": "/social-newtwork-app/index.html",
-    "main.1e526595.css.map": "/social-newtwork-app/static/css/main.1e526595.css.map",
-    "main.96e32ec3.js.map": "/social-newtwork-app/static/js/main.96e32ec3.js.map"
+    "main.a77b6061.css.map": "/social-newtwork-app/static/css/main.a77b6061.css.map",
+    "main.268de671.js.map": "/social-newtwork-app/static/js/main.268de671.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e526595.css",
-    "static/js/main.96e32ec3.js"
+    "static/css/main.a77b6061.css",
+    "static/js/main.268de671.js"
   ]
 }

@@ -8,7 +8,6 @@
     row-gap: 30px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
 }
 .userBlock{
     filter: drop-shadow(1px 3px 5px black);
@@ -27,6 +26,13 @@
 .left{
     display: flex;
     flex-direction: column;
+}
+.right{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 140px;
 }
 .right hr{
     margin-top: 0;
@@ -56,4 +62,22 @@
 }
 .btnFollow{
     background: #006b00;
+}
+.selectedPage{
+    font-weight: bolder;
+    font-size: 16px;
+    color: #12c7f5 !important;
+    text-decoration: underline;
+}
+
+.pagesBtn{
+    margin-top: 50px;
+}
+.pagesBtn button{
+    background: var(--mainBg);
+    border: none;
+    color: white;
+    padding: 5px 16px;
+    margin: 2px;
+    cursor: pointer;
 }
